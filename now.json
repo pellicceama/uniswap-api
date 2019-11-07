@@ -1,5 +1,5 @@
 {
-  "name": "uniswap-api",
+  "name": "uniswap-api-pellicceama",
   "version": 2,
   "alias": "api.uniswap.info",
   "builds": [{ "src": "./src/**/*.ts", "use": "@now/node" }],
